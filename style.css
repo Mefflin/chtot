@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+ padding: 10px;
+}
+
+h1{
+    color: darkblue;
+    font-weight: 200;
+}
+
+footer p{
+    background-color:PeachPuff;   }
+    
+.products {
+    background-color:MistyRose	;
+}
+
+ #discount {
+    color: blue; 
+ }
+
+#delivery{
+color: blue;
+}
+a href #contacts{
+    text-decoration: none;
+    border: 5px;
+}
+#wholesale{
+    color: blue;
+}
+#about_us {
+    color: blue;
+}
